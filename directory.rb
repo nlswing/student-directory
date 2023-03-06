@@ -16,6 +16,7 @@ students = [
 # and then print them
 puts "The students of Villains Academy"
 puts "_____________"
+# iterate over the array of students
 students.each do |student|
     puts student
 end
